@@ -1,3 +1,4 @@
+https://www.freecodecamp.org/news/terraform-modules-explained/#:~:text=A%20Terraform%20module%20allows%20you,group%20later%2C%20possibly%20many%20times. (good link explaining  terraform modules)
 ![image](https://user-images.githubusercontent.com/63472885/150686913-c211b70d-c1e9-4b82-89ce-33582a02d04d.png)
 ![image](https://user-images.githubusercontent.com/63472885/150686939-a49128d1-0fff-4c23-95dd-b17f636e3622.png)
 ![image](https://user-images.githubusercontent.com/63472885/150686953-23698634-7ad8-431c-94c6-63117f61d312.png)
